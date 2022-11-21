@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Political Science and Diplomacy
 layout: home
 ---
 
